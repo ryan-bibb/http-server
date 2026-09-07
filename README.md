@@ -11,5 +11,5 @@
 - / 		- home route
 - /about 	- lists current routes
 - /cat 		- its a cat
-- /page		- renders super basical html link to the greatest player of all time
+- /page		- renders super basica html link to the greatest player of all time
  

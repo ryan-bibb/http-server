@@ -4,7 +4,7 @@
 
 - To run the server just compile the files and hit the routes from your terminal/browser depending on the routes
 
-- This also only words for machines that are on your LAN
+- This also only works for machines that are on your LAN
 
 ## Current Routes
 
